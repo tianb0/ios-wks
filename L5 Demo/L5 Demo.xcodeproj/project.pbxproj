@@ -16,6 +16,7 @@
 		C851F93B2A67866F0078106C /* L5_DemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C851F93A2A67866F0078106C /* L5_DemoUITestsLaunchTests.swift */; };
 		C851F9482A6787CF0078106C /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = C851F9472A6787CF0078106C /* MenuItem.swift */; };
 		C851F94A2A6837B60078106C /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = C851F9492A6837B60078106C /* DataService.swift */; };
+		C851F94C2A6840EE0078106C /* MenuListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C851F94B2A6840EE0078106C /* MenuListRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		C851F93A2A67866F0078106C /* L5_DemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = L5_DemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C851F9472A6787CF0078106C /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		C851F9492A6837B60078106C /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		C851F94B2A6840EE0078106C /* MenuListRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuListRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				C851F91D2A67866D0078106C /* L5_DemoApp.swift */,
 				C851F91F2A67866D0078106C /* MenuView.swift */,
+				C851F94B2A6840EE0078106C /* MenuListRow.swift */,
 				C851F9472A6787CF0078106C /* MenuItem.swift */,
 				C851F9492A6837B60078106C /* DataService.swift */,
 				C851F9212A67866F0078106C /* Assets.xcassets */,
@@ -266,6 +269,7 @@
 				C851F9482A6787CF0078106C /* MenuItem.swift in Sources */,
 				C851F9202A67866D0078106C /* MenuView.swift in Sources */,
 				C851F91E2A67866D0078106C /* L5_DemoApp.swift in Sources */,
+				C851F94C2A6840EE0078106C /* MenuListRow.swift in Sources */,
 				C851F94A2A6837B60078106C /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
