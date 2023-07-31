@@ -23,3 +23,6 @@ xcuserdata/
 CWC*
 
 .DS_Store
+
+# config files
+*.xcconfig
